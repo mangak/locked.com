@@ -1,0 +1,1 @@
+Checking if file content written is specified file.
